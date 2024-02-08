@@ -15,15 +15,9 @@ Smooth scrolling behavior for enhanced user experience.<br/>
 
 Files
 -----------
-parallax-effect-website/<br/>
-│<br/>
-├── index.html<br/>
-├── styles.css<br/>
-└── images/<br/>
-    ├── background1.jpg<br/>
-    ├── background2.jpg<br/>
-    ├── background3.jpg<br/>
-└── README.md<br/>
+index.html<br/>
+css.styles<br/>
+assests<br/>
 
 Customize
 ---------
